@@ -52,4 +52,10 @@ As pastas `images/` incluem capturas demonstrativas:
 - Prints do keylogger funcionando  
 - Exemplo de recebimento de e-mail
 
+## 🛡 Técnicas de Proteção
+Arquivo com algumas das técnicas que podem fazer a diferença em um ambiente de segunra
+- Orientação de usuários
+- Firewall
+- Antivírus 
+
 
